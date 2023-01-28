@@ -1,4 +1,6 @@
 .links {
+  -webkit-transition: opacity 0.17s ease-in-out;
+  -o-transition: opacity 0.17s ease-in-out;
   transition: opacity 0.17s ease-in-out;
   text-decoration: none;
 }
