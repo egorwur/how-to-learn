@@ -1,6 +1,4 @@
 .digits {
   display: block;
   padding: 100px 0;
-  flex-direction: column;
-  align-items: center;
 }
